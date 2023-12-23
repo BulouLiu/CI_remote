@@ -1,4 +1,4 @@
-%%file CI_Test/test_basic_maths.py
+
 """
 test basic_maths.py.
 """
